@@ -1,0 +1,2 @@
+# ignore the folder named "esri_based".  I was just playing around with some esri-based change detection for address points but it didn't really work out to well
+esri_based/
